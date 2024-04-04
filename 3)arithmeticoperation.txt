@@ -1,0 +1,6 @@
+ 3.Write a Smart Contract for performing various arithmetic operations using a user-defined                                                            function in Solidity Programming Language. 
+
+Ans- We will use function to add, subtract and divide
+1. First I will create a add function I will be taking two variables num1 and num2 and call return num1 + num2.
+2. Then  I will create subtract function again taking two variables num1 and num2 then call return num1 – num2.
+3. Again I am creating div function and taking two variables num1 and num2 and then calling return num1/num2.

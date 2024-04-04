@@ -1,0 +1,3 @@
+2.Write a Smart Contract for understanding value types in Solidity
+Programming Language.  
+Ans – There are some value type like Bool function, Address , byte32, 
